@@ -1,6 +1,6 @@
 # Used Car Prediction
  <b>List of files : </b><br>
-Used Car Price Prediction Notebook.ipynb : This is a Jupyter Noebook file which was used to generate the insights for the analysis.
+Used Car Price Prediction Notebook.ipynb : This is a Jupyter Noebook file which was used to generate the insights for the analysis. <br>
 Used Car Price Prediction results.pdf : This file contains final results as technical summary with insights from the analysis as pdf.
 
  <b>Motivation: </b><br>
